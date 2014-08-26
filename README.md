@@ -11,4 +11,5 @@ to see the configs of this component just take look at code, i will provide a do
 For a working demo take a look at these links:
 
 http://jsfiddle.net/parham_fazel/4vUJn/64/
+<br/>
 http://jsfiddle.net/parham_fazel/jqbaV/34/
