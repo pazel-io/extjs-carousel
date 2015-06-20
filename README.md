@@ -9,4 +9,4 @@ to see the configs of this component just take look at code.
 
 For a working demo take a look at these links:
 
-http://jsfiddle.net/parham_fazel/4vUJn/64/
+<a href="http://jsfiddle.net/parham_fazel/4vUJn/64/" target="_blank">Example</a>
